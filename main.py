@@ -51,7 +51,7 @@ if len(b) != 0:
 
 def calculate(a):
   if len(a) == 0:
-    # s.warning("Pllease enter values to be calculated and see answer here")
+    # s.warning("Please enter values to be calculated and see answer here")
     return None
   if b.isalnum():
     temp = 0
